@@ -1,7 +1,7 @@
 # MyProgect
  Индивидуальный проект по теме: онлайн игры.
 <p align = "center">
-
+ <img src = "/RU_2ea52fa9ecde410581c5dbc586696538.jpg">
 </p>
 
 <p align = "center">
