@@ -1,4 +1,5 @@
 # MyProgect
- Индивидуальный проект по теме: ...
+ Индивидуальный проект по теме: онлайн игры.
+<p align = "center">
 
-![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
+</p>
