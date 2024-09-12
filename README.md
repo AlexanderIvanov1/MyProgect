@@ -99,6 +99,7 @@ Crossout — это многопользовательская онлайн-иг
 - https://forum.crossout.net
 - https://crossout.fandom.com/wiki/Crossout_Wiki
 <br>
+
 # Контакты
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=VK&logoColor=white")](https://vk.com/crossoutgame)
 <br>
