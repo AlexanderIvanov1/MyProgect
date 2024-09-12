@@ -4,9 +4,17 @@
  <img src = "src/глав2.jpg">
 </p>
 
-<p align = "center">
-    
-</p>
+<p align="center">
+    <a href="https://github.com/Dekneslo/Course-work-on-Database-management-and-automation/graphs/contributors">
+    <img src="https://img.shields.io/badge/contributors-8B0000?style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/Dekneslo/Course-work-on-Database-management-and-automation/issues">
+    <img src="https://img.shields.io/badge/issues-FF8C00?style=for-the-badge"/>
+    </a>
+    <a href="https://github.com/Dekneslo/Course-work-on-Database-management-and-automation/pulls">
+    <img src="https://img.shields.io/badge/pulls-696969?style=for-the-badge"/>
+    </a>
+  </p>
 
 
 # Crossout
@@ -91,5 +99,7 @@ Crossout — это многопользовательская онлайн-иг
 - https://forum.crossout.net
 - https://crossout.fandom.com/wiki/Crossout_Wiki
 <br>
-
+# Контакты
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=VK&logoColor=white")](https://vk.com/crossoutgame)
+<br>
 Исследуйте мир Crossout, улучшайте свои навыки и создавайте автомобили, способные справиться с любыми вызовами!
