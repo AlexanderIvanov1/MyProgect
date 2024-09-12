@@ -90,5 +90,6 @@ Crossout — это многопользовательская онлайн-иг
 - https://crossout.net
 - https://forum.crossout.net
 - https://crossout.fandom.com/wiki/Crossout_Wiki
+<br>
 
 Исследуйте мир Crossout, улучшайте свои навыки и создавайте автомобили, способные справиться с любыми вызовами!
