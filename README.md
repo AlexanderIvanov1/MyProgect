@@ -1,7 +1,7 @@
 # MyProgect
  Индивидуальный проект по теме: онлайн игры.
 <p align = "center">
- <img src = "src/cr1.jpg">
+ <img src = "src/глав2.jpg">
 </p>
 
 <p align = "center">
@@ -51,7 +51,7 @@ Crossout — это многопользовательская онлайн-иг
     <br>
 <br>
 <p align = "center">
- <img src = "src/Ангар.jpeg">
+ <img src = "src/ангар.jpeg">
 </p>
 <p align = "center">
  <img src = "src/сборка.jpg">
@@ -71,10 +71,10 @@ Crossout — это многопользовательская онлайн-иг
     <br>
 <br>
 <p align = "center">
- <img src = "src/инвентарь.jpeg">
+ <img src = "src/инвентарь1.jpg">
 </p><br>
 <p align = "center">
- <img src = "src/инвентрарь2.jpg">
+ <img src = "src/инвентарь.jpeg">
 </p>
 
 4. **Пример использования:**
@@ -82,8 +82,9 @@ Crossout — это многопользовательская онлайн-иг
     <br>
 <br>
 <p align = "center">
- <img src = "src/вбой.jpg">
-</p>
+ <img src = "src/вбой.png">
+</p><br>
+
 ## Дополнительные полезные ссылки:
 
 - https://crossout.net
